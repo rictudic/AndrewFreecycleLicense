@@ -14,7 +14,7 @@ to label the item according to AFL and donate it to some
 other CMU student for free. The receiver of the item must understand
 that the item is AFL licensed and its implications.
 
-(Label.pdf)
+[Click here to download label](sample.pdf)
 
 ### Preamble
 
