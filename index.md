@@ -14,6 +14,8 @@ to label the item according to AFL and donate it to some
 other CMU student for free. The receiver of the item must understand
 that the item is AFL licensed and its implications.
 
+[Label.pdf]
+
 ### Preamble
 
 The Andrew Freecyle License is a free, copyleft licence for
